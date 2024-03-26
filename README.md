@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as Front-end Developer
-- 🌱 I’m currently learning ReactJs and React Native
+- 🌱 I'm interested in ReactJs and React Native
+- 😄 Teaching is my childhood dream. Working at MindX as a side job to make it a reality
 <!--
 **whis102/whis102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
